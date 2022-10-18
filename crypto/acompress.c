@@ -20,6 +20,7 @@
 #include <crypto/internal/acompress.h>
 #include <crypto/internal/scompress.h>
 #include "internal.h"
+#include <stdio.h>
 
 static const struct crypto_type crypto_acomp_type;
 
